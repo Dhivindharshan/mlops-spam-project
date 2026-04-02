@@ -1,4 +1,4 @@
-# 📧 MLOps Spam Classifier
+# 📧 🚀 MLOps Spam Detection API (FastAPI + ML)
 
 ## 🚀 Project Overview
 
@@ -79,6 +79,21 @@ Example:
 ```
 
 ---
+
+## 🎥 Demo
+
+### Swagger UI
+
+http://127.0.0.1:8000/docs
+
+### Example Prediction
+
+Input:
+"Win a free iPhone now"
+
+Output:
+Spam (0.99 confidence)
+
 
 ## 🎯 Future Improvements
 
